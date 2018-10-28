@@ -1,0 +1,22 @@
+{
+  "name": "blessed-cua-theme",
+  "version": "1.0.0",
+  "description": "CUA style theme for (neo-)blessed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cua",
+    "blessed",
+    "curses",
+    "ncurses",
+    "text",
+    "dos"
+  ],
+  "author": "Mike Ralphson",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "neo-blessed": "^0.2.0"
+  }
+}
