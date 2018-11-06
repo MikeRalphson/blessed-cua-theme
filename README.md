@@ -6,3 +6,7 @@ SAA/CUA theme for (neo-)blessed
 
 * Default theme
 * SAA/CUA style menus
+
+## Thanks
+
+* https://github.com/foundling/tcms
