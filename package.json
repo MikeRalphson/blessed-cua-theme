@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "CUA style theme for (neo-)blessed",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeralphson/blessed-cua-theme.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
